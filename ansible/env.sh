@@ -7,6 +7,7 @@ echo export JBOSS_HOME=/usr/share/wildfly-10.1.0.Final >> //usr/share/wildfly-10
 
 #source /root/.bashrc
 #source /home/jboss/.bashrc
+.
 
 
 
